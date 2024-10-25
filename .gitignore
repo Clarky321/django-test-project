@@ -7,8 +7,8 @@ __pycache__/
 *.env
 
 # Игнорировать файлы SQLite базы данных
-db.sqlite3
-*.sqlite3
+# db.sqlite3
+# *.sqlite3
 
 # Игнорировать виртуальное окружение Python
 venv/
